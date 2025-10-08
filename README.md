@@ -4,7 +4,7 @@ This repository contains a minimal, zero-dependency Go library for translating t
 
 This library was created to provide a shared core for projects like [dunglas/frankenphp-grpc](https://github.com/dunglas/frankenphp-grpc) and [mholt/caddy-grpc-web](https://github.com/mholt/caddy-grpc-web).
 
-Largly inspired from:
+Largely inspired by:
 - [envoy proxy](https://github.com/envoyproxy/envoy/blob/c811552b94d0d4189de710113d5f081f6c952e5b/source/extensions/filters/http/grpc_web/grpc_web_filter.cc)
 - [improbable-eng/grpc-web](https://github.com/improbable-eng/grpc-web)
 
